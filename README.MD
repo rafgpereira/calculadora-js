@@ -31,5 +31,5 @@ Clique [aqui](https://calc-js-rafgpereira.netlify.app) para acessar a página on
 
 ### Calculadora
 
-![Calculadora](assets/img/tarefasPagina.png)
+![Calculadora](assets/img/calculadora.png)
 
