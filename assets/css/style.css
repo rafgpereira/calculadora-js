@@ -73,5 +73,11 @@ form button:hover {
   cursor: pointer;
 }
 .btn:hover {
-  background-color: rgb(165, 165, 165);
+  background-color: rgb(200, 200, 200);
+}
+.btn-eq{
+  background-color: #4fa4ff;
+}
+.btn-eq:hover{
+  background-color: #4a88cb;
 }
